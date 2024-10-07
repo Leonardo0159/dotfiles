@@ -1,0 +1,7 @@
+[http]
+	sslVerify = true
+[user]
+	name = peo_lsnascimento
+	email = 36703237+Leonardo0159@users.noreply.github.com
+[credential]
+	helper = manager-core
